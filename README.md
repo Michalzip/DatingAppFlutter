@@ -16,10 +16,14 @@
     
 </div>
 
-<img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/ChatPage.png" height="25%" width="25%">
-<img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" height="25%" width="25%">
+<!-- <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/ChatPage.png" height="25%" width="25%">
+<img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" height="25%" width="25%"> -->
 
-
+<p float="left">
+  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/ChatPage.png" width="100" />
+  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 
 <!-- ABOUT THE PROJECT -->
