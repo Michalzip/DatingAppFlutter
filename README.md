@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project :sunglasses:
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 
 it is an application that will allow you to meet someone for a long time and who knows, maybe and forever :revolving_hearts: The application is 
