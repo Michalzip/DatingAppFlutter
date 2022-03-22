@@ -19,7 +19,7 @@
 <!-- <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/ChatPage.png" height="25%" width="25%">
 <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" height="25%" width="25%"> -->
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" width="250" height="420" />   
  
   <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/SettingPanel.png" width="250" height="420" />
