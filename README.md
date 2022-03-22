@@ -20,9 +20,13 @@
 <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" height="25%" width="25%"> -->
 
 <p float="left">
-  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/ChatPage.png" width="300" />
-  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" width="300" height="506" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/WelcomePage.png" width="250" height="420" />   
+ 
+  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/SettingPanel.png" width="250" height="420" />
+  
+  <img src="https://github.com/Programmingisfun11/DateAppFlutter/blob/main/screens/ChatPage.png" width="250"  />
+  
+  
 </p>
 
 
