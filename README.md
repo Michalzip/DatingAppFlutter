@@ -11,7 +11,7 @@
  
 
   <p align="center">
-  <h3 align="center">  here you will find out how app looking and how you will use!</h3>
+  <h3 align="center">  Here you will find out how app looking and how you will use!</h3>
     <br />
     
 </div>
