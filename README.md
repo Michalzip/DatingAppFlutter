@@ -7,7 +7,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h1 align="center">Date App  :heart_eyes: </h1>
+  <h1 align="center">Dating App  :heart_eyes: </h1>
  
 
   <p align="center">
