@@ -56,11 +56,6 @@ designed for people who want to meet people with similar interests:smile:
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<h3>soon...</h3>
-
 
 
 
