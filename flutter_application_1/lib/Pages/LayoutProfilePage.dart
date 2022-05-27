@@ -116,7 +116,6 @@ class UserProfle extends StatelessWidget {
                                   MaterialPageRoute(
                                       builder: (context) =>
                                           chatRoom(documentId, icon)));
-                              print('TO JEST ZDJECIE: ${icon}');
                             },
                           ),
                         )),

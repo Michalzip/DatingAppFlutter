@@ -174,7 +174,7 @@ class _ChatSState extends State<ChatScreen> {
                           ConnectionState.waiting) {
                         return CircularProgressIndicator();
                       }
-                      return Text('w');
+                      return Text('');
                     }),
               )
             ])));
